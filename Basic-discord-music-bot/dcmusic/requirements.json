@@ -1,0 +1,12 @@
+Before run your bot, you need to install those:
+
+
+------------------------------
+pip install discord
+------------------------------
+pip install discord.py[voice]
+------------------------------
+pip install asyncio
+------------------------------
+pip install youtube-dl
+------------------------------
